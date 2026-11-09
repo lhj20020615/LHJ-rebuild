@@ -1,0 +1,29 @@
+# Data and experiment artifacts
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.ckpt
+data/
+datasets/
+models/
+05_模型/
+outputs/
+results/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Local/private configuration
+.env
+configs/paths.env
+.idea/
+
